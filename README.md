@@ -1,4 +1,4 @@
-## SOLIDJS001 - first project with solidjs 
+## SOLIDJS001 - first project with solid.js, see www.solidjs.com
 
 ## installation
 - create a new project in nodejs 
